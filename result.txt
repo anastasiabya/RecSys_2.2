@@ -1,0 +1,6 @@
+User 15
+199 ('Shining, The (1980)', '01-Jan-1980') 4.218
+169 ('Cinema Paradiso (1988)', '01-Jan-1988') 4.194
+1203 ('To Be or Not to Be (1942)', '01-Jan-1942') 4.179
+173 ('Raiders of the Lost Ark (1981)', '01-Jan-1981') 4.171
+22 ('Taxi Driver (1976)', '16-Feb-1996') 4.142
