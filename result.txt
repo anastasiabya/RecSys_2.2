@@ -1,0 +1,6 @@
+User 15
+318 ('Everyone Says I Love You (1996)', '06-Dec-1996') 4.358
+483 ('Maltese Falcon, The (1941)', '01-Jan-1941') 4.088
+134 ('2001: A Space Odyssey (1968)', '01-Jan-1968') 4.079
+64 ("What's Eating Gilbert Grape (1993)", '01-Jan-1993') 3.979
+114 ('Haunted World of Edward D. Wood Jr., The (1995)', '26-Apr-1996') 3.977
